@@ -1,4 +1,4 @@
-# continuum_norma
+# cont_norma
 Python 3 code to interactivaly normalized a spectra. The flux is binned through a sigma-clipping process to fit a polynomial of order n and obtain a continuum fuction that is use to normalized the spectra. 
 
 # Basic useage
