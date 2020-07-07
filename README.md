@@ -22,10 +22,8 @@ To see a simple example run: **python norma.py**
    **regs** = spectral regions to normalized.
  
 # Output
-  In **regs** folder is saved each normalized spectral region as "obj_name-#.dat"
-
-  In **final** folder is saved in the file "obj_name_reg.dat"
-
+  In **regs** folder is saved each normalized spectral region as "obj_name-#.dat"   
+  In **final** folder is saved in the file "obj_name_reg.dat".  
   **log.txt** saved the name of the object, polynomial order, number of bins, number of excluded bins, y offset, spectral region number and date.
     
     
